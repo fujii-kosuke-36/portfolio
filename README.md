@@ -67,3 +67,6 @@
 
 ## 画面遷移図
 https://www.figma.com/file/5GufoSv4bsHxScnr7p6w6P/Portfolio?node-id=0%3A1&t=HiI0N60lgJzdQqGv-1
+
+##  使用技術
+[![My Skills](https://skillicons.dev/icons?i=js,ruby,rails,postgres)](https://skillicons.dev)

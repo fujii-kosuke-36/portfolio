@@ -67,3 +67,9 @@
 
 ## 画面遷移図
 https://www.figma.com/file/5GufoSv4bsHxScnr7p6w6P/Portfolio?node-id=0%3A1&t=HiI0N60lgJzdQqGv-1
+
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/d17fe43ddd7d9a96861ae52ea869c2c0.png)](https://gyazo.com/d17fe43ddd7d9a96861ae52ea869c2c0)
+
+##  使用技術
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres)](https://skillicons.dev)
